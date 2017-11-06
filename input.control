@@ -1,0 +1,11 @@
+25 74 142 20	! Seeds: 1st-3rd: 1-178, not all 1, 4th:0-168
+-1000000000	! Total number of steps
+200000  	! Number of steps between each frame
+200		! Number of Grids each of size:
+7		! Gridsize
+0.4		! Finaldensity: Molecules per grid
+0.1		! Startdensity: Molecules per grid
+2000	! Deposition Rate
+13		! Maximum number of molecules per grid
+-3.	! Interaction strength
+
